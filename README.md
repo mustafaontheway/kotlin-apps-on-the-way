@@ -1,3 +1,6 @@
-Mobile AI Apps...
+- Kotlin
 
-Wait!
+- Jetpack Compose
+
+- Compose Multiplatform
+
